@@ -1,9 +1,7 @@
-package com.inertia.intgers;
+package com.inertia.integers;
 
-import com.inertia.integers.Line;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-import org.junit.runners.JUnit4;
 
 public class LineTests {
     @Test

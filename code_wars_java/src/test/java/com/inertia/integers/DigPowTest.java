@@ -1,8 +1,7 @@
-package com.inertia.intgers;
+package com.inertia.integers;
 
 import static org.junit.Assert.*;
 
-import com.inertia.integers.DigPow;
 import org.junit.Test;
 
 
