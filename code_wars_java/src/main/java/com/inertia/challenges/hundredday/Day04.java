@@ -1,6 +1,6 @@
-package com.inertia.daily;
+package com.inertia.challenges.hundredday;
 
-public class Day4 {
+public class Day04 {
     public static String longToIP(long ip) {
         // Java doesn't have uint32, so here we use long to represent int32
         // First convert it to a binary String

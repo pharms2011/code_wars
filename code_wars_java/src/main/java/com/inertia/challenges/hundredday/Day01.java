@@ -1,4 +1,4 @@
-package com.inertia.daily;
+package com.inertia.challenges.hundredday;
 
 import java.util.*;
 
@@ -7,7 +7,7 @@ import java.util.*;
 * have to shuffle all letters from the input in all possible orders.
 * */
 
-public class Day1 {
+public class Day01 {
 
     public static String pigIt(String str) {
         // Write code here

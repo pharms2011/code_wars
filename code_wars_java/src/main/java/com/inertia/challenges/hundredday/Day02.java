@@ -1,9 +1,9 @@
-package com.inertia.daily;
+package com.inertia.challenges.hundredday;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class Day2 {
+public class Day02 {
     public static int parseInt(String numStr) {
         // Your code here!
         int total = 0;

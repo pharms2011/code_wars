@@ -1,9 +1,9 @@
-package com.inertia.daily;
+package com.inertia.challenges.hundredday;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Day3 {
+public class Day03 {
     public static String[] dirReduc(String[] arr) {
         // Your code here.
         ArrayList<String> reducedDir = new ArrayList();
