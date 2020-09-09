@@ -16,6 +16,7 @@ import java.util.Arrays;
 * sometimes pass through it. Usually only one wave crest will be present at any given time in an arena, although
 * simultaneous, counter-rotating waves have been produced. (Source Wikipedia)
 * */
+
 public class Week01Test {
 
     @Test
